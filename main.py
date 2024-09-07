@@ -5,7 +5,7 @@ def calculate_trip_cost(distance, mileage, fuel_price):
 
 distance = float(input("Enter the distance of the trip in kilometers: "))
 print()
-mileage = float(input("Enter the mileage of your car in kilometers per liter: "))
+mileage = float(input("Enter the mileage of your car(km/l): "))
 print()
 fuel_price = float(input("Enter the price of fuel per liter: "))
 print()
